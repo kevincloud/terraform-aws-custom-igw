@@ -1,4 +1,4 @@
 variable "vpc_id" { }
-variable "tags { 
+variable "tags" { 
     type = map(string)
 }
